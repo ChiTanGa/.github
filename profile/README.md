@@ -1,5 +1,3 @@
-# .github
-
 # Chi-Tan-Ga
 
 ## Overview
